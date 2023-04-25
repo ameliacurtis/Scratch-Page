@@ -1,0 +1,54 @@
+.common-mainbody{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke;
+    border: 3px solid wheat
+}
+
+.common-header{
+    text-align: center;
+    background-color: wheat;
+    color: black;
+    height: 100px;
+    line-height: 100px;
+}
+
+.youtube{
+    text-align: center;
+    border: 3px solid wheat;
+    background-color:whitesmoke
+}
+.footer{
+    height: 25px;
+    background-color: black;
+    color: white;
+    line-height: 25px;
+    position: fixed;
+    bottom: 0px;
+    left: 5px;
+    right: 5px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.tableau{
+    display: block;
+    text-align:center;
+    width: 25%;
+}
+
+.emphasizedtext{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+  }
